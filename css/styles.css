@@ -245,8 +245,7 @@ section {
   object-position: center;
   display: block;
   transition: all 1s;
-  filter: grayscale(1);
-  
+  filter: grayscale(1); 
 }
 
 .portfolio__description {
