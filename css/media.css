@@ -1,7 +1,4 @@
 @media (max-width: 991px) {
-
-
-
     .navbar__menu {
       display: flex;
     }
@@ -103,7 +100,6 @@
   }
   
   @media (max-width: 767px) {
-  
     .home__background {
       background-image: url(./assets/bg_responsive.webp);
       background-attachment: fixed;
